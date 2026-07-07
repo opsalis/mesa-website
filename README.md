@@ -23,7 +23,7 @@ Full context: `K:/decisions/mesa-appstore-enrollment-runbook-2026-07-07.md`
 
 ## Deploy
 
-1. Purchase domain (e.g. `mesaops.com`) via GoDaddy
+1. Purchase domain (e.g. `mesa-ops.com`) via GoDaddy
 2. Change GoDaddy nameservers to Cloudflare's
 3. Add domain to Cloudflare Pages project connected to this repo
 4. Cloudflare auto-deploys on every push to `main`
